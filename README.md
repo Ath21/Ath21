@@ -200,7 +200,7 @@ Projects are organized by flow/domain:
 
 ### Systems, Networking & Security
 
-#### Operating Systems & Low-Level
+#### Operating Systems & Low-Level Programming
 
 - [Operating Systems I](https://github.com/Operating-Systems-1)
   - Basic Linux Commands
@@ -225,7 +225,7 @@ Projects are organized by flow/domain:
   - Theater Reservation System with Java RMI
 - [Cloud Computing and Services](https://github.com/Cloud-Computing-and-Services)
   - Use Cases at CloudSim
-  - Virtual Lab – Dockerized Cloud Services
+  - Virtual Lab - Dockerized Cloud Services
 - [Internet of Things](https://github.com/Internet-of-Things-aka-Uniwa)
   - Traffic Light Sequence with Arduino UNO, ESP-01 and ThingSpeak
 
@@ -270,7 +270,7 @@ Projects are organized by flow/domain:
   - Register Files
   - Simple Circle of a MIPS Processor
 
-#### Parallel & Scientific Computing
+#### Parallel Computing
 
 - [Introduction to Parallel Computing](https://github.com/Introduction-to-Parallel-Computing)
   - Message Passing Interface (MPI)
