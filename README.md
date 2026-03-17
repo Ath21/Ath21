@@ -36,29 +36,28 @@ My interests include backend development, microservices architectures, container
 ### Smart Traffic Lights System
 Cloud-native system for traffic management using scalable microservices and container orchestration.
 
-- Built backend microservices using .NET (C#) and REST APIs
-- Designed event-driven architecture with RabbitMQ 
-- Containerized services using Docker and deployed on Kubernetes (Minikube)
-- Implemented CI/CD pipelines for automated build and deployment
-- Used SQL & NoSQL databases (PostgreSQL, MongoDB, Redis)
+- Built backend microservices using .NET (C#) and REST APIs  
+- Designed event-driven architecture with RabbitMQ  
+- Containerized services using Docker and deployed on Kubernetes (Minikube)  
+- Implemented CI/CD pipelines for automated build and deployment  
+- Used SQL & NoSQL databases (PostgreSQL, MongoDB, Redis)  
 
-Project Repository:  
+Repository:  
 https://github.com/Ath21/Smart-Traffic-Lights-System  
 
-Thesis Publication:  
+Thesis:  
 https://polynoe.lib.uniwa.gr/xmlui/handle/11400/11153  
 
 ---
 
 ### Cloud Virtual Lab
-Containerized environment for deploying and managing services.
+Containerized environment for deploying and testing distributed services.
 
-- Designed multi-container architecture  
-- Managed service communication and networking  
-- Used Docker Compose for orchestration  
-- Configured environment-based deployments  
+- Multi-container architecture using Docker Compose  
+- Service communication and internal networking  
+- Configurable environments for deployment scenarios  
 
-Project Repository:  
+Repository:  
 https://github.com/Cloud-Computing-and-Services/Virtual-Lab  
 
 ---
@@ -66,12 +65,11 @@ https://github.com/Cloud-Computing-and-Services/Virtual-Lab
 ### Cinema Booking Backend
 Backend system for managing cinema bookings and operations.
 
-- Developed REST API using .NET  
-- Integrated database for data persistence  
-- Implemented client-server architecture  
-- Focused on clean structure and maintainability  
+- REST API built with .NET  
+- Database integration and persistence  
+- Client-server architecture  
 
-Project Repository:  
+Repository:  
 https://github.com/Preze-Cinemas-Web/Back-end  
 
 ---
@@ -165,14 +163,14 @@ Academic projects are organized in GitHub organizations, structured by domain an
 - Data Structures (Stacks, Lists, Arrays)  
 - Algorithm Design & Complexity Analysis  
 
-These repositories include implementations across backend systems, distributed computing, networking, low-level systems, and core computer science concepts.
-
 ---
 
 ## Contact
 
 LinkedIn:  
+
 https://www.linkedin.com/in/vasilis-athanasiou-7036b53a4/
 
 Email:
+
 vathanasiou1908@gmail.com
