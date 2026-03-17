@@ -74,22 +74,25 @@ https://github.com/Preze-Cinemas-Web/Back-end
 
 ---
 
-## Additional Work
-
-Academic projects are organized in GitHub organizations, structured by domain and coursework.
-
----
-
 ### Software & Information Systems
 
-**Organizations**
-- https://github.com/Analysis-of-Information-Systems  
-- https://github.com/Development-of-Information-Systems  
-- https://github.com/Preze-Cinemas-Web  
-- https://github.com/Artificial-Intelligence-aka-Uniwa  
-- https://github.com/Big-Data-Management-aka-Uniwa  
+**Organizations**  
+- [Analysis-of-Information-Systems](https://github.com/Analysis-of-Information-Systems)  
+- [Development-of-Information-Systems](https://github.com/Development-of-Information-Systems)  
+- [Preze-Cinemas-Web](https://github.com/Preze-Cinemas-Web)  
+- [Preze-Cinemas-Desktop](https://github.com/Preze-Cinemas-Desktop)  
+- [Artificial-Intelligence-aka-Uniwa](https://github.com/Artificial-Intelligence-aka-Uniwa)  
+- [Big-Data-Management-aka-Uniwa](https://github.com/Big-Data-Management-aka-Uniwa)  
+- [Software-Development-Methodologies](https://github.com/Software-Development-Methodologies)  
+- [Software-Quality-and-Reliability](https://github.com/Software-Quality-and-Reliability)  
+- [Technical-Writing-aka-Uniwa](https://github.com/Technical-Writing-aka-Uniwa)  
+- [Object-Oriented-Programming-aka-Uniwa](https://github.com/Object-Oriented-Programming-aka-Uniwa)  
+- [Human-Computer-Interaction](https://github.com/Human-Computer-Interaction)  
+- [Information-Retrieval-aka-Uniwa](https://github.com/Information-Retrieval-aka-Uniwa)  
+- [Knowledge-Management-aka-Uniwa](https://github.com/Knowledge-Management-aka-Uniwa)  
+- [E-Learning-aka-Uniwa](https://github.com/E-Learning-aka-Uniwa)  
 
-**Projects**
+**Projects**  
 - Bank Transaction System  
 - Real Estate Management System  
 - Cash Management System  
@@ -97,24 +100,28 @@ Academic projects are organized in GitHub organizations, structured by domain an
 - Genetic Algorithms  
 - Search Algorithms  
 - US Police Killings Data Analysis  
+- HRLib & Software Methods  
+- Java GUI Applications  
+- Maze Game, Media Player, Class & Inheritance  
+- Virtual Gym, Search Engine, KMS  
+- AI-at-Education, Ollama  
 
 ---
 
 ### Networking & Distributed Systems
 
-**Organizations**
-- https://github.com/Cloud-Computing-and-Services  
-- https://github.com/Computer-Networks-2  
-- https://github.com/Distributed-Systems-aka-Uniwa  
-- https://github.com/Network-Programming-aka-Uniwa  
-- https://github.com/Information-Technology-Security  
-- https://github.com/Internet-of-Things-aka-Uniwa  
+**Organizations**  
+- [Cloud-Computing-and-Services](https://github.com/Cloud-Computing-and-Services)  
+- [Computer-Networks-2](https://github.com/Computer-Networks-2)  
+- [Distributed-Systems-aka-Uniwa](https://github.com/Distributed-Systems-aka-Uniwa)  
+- [Network-Programming-aka-Uniwa](https://github.com/Network-Programming-aka-Uniwa)  
+- [Information-Technology-Security](https://github.com/Information-Technology-Security)  
+- [Internet-of-Things-aka-Uniwa](https://github.com/Internet-of-Things-aka-Uniwa)  
 
-**Projects**
-- Virtual Lab (Cloud Environment)  
-- CloudSim Simulation  
-- OSPF Protocol Implementation  
-- TCP Communication  
+**Projects**  
+- Virtual Lab  
+- CloudSim  
+- OSPF & TCP Communication  
 - RMI & RPC Systems  
 - Socket Programming  
 - Traffic Lights IoT System  
@@ -125,22 +132,24 @@ Academic projects are organized in GitHub organizations, structured by domain an
 
 ### Systems & Low-Level Computing
 
-**Organizations**
-- https://github.com/Operating-Systems-1  
-- https://github.com/Operating-Systems-2-aka-Uniwa  
-- https://github.com/Signals-and-Systems-aka-Uniwa  
-- https://github.com/Digital-Signal-Processing-aka-Uniwa  
-- https://github.com/Circuit-Theory  
-- https://github.com/Digital-Circuit-Design  
-- https://github.com/Electronics-aka-Uniwa  
-- https://github.com/Parallel-Systems-aka-Uniwa  
+**Organizations**  
+- [Operating-Systems-1](https://github.com/Operating-Systems-1)  
+- [Operating-Systems-2-aka-Uniwa](https://github.com/Operating-Systems-2-aka-Uniwa)  
+- [Signals-and-Systems-aka-Uniwa](https://github.com/Signals-and-Systems-aka-Uniwa)  
+- [Digital-Signal-Processing-aka-Uniwa](https://github.com/Digital-Signal-Processing-aka-Uniwa)  
+- [Circuit-Theory](https://github.com/Circuit-Theory)  
+- [Digital-Circuit-Design](https://github.com/Digital-Circuit-Design)  
+- [Electronics-aka-Uniwa](https://github.com/Electronics-aka-Uniwa)  
+- [Parallel-Systems-aka-Uniwa](https://github.com/Parallel-Systems-aka-Uniwa)  
+- [Introduction-to-Parallel-Computing](https://github.com/Introduction-to-Parallel-Computing)  
+- [Physics-aka-Uniwa](https://github.com/Physics-aka-Uniwa)  
 
-**Projects**
+**Projects**  
 - Bash Scripting & Linux Commands  
-- Process Management (Fork, Threads, Synchronization)  
+- Fork, Threads & Synchronization  
 - Signal Processing (MATLAB)  
-- MIPS Architecture & VHDL Design  
-- RLC Circuit Analysis (AC/DC)  
+- MIPS Architecture & VHDL  
+- RLC Circuits (AC/DC)  
 - CUDA & OpenMP Parallel Programming  
 - Multithreaded Systems  
 
@@ -148,20 +157,67 @@ Academic projects are organized in GitHub organizations, structured by domain an
 
 ### Programming & Core Computer Science
 
-**Organizations**
-- https://github.com/Computer-Programming-aka-Uniwa  
-- https://github.com/Object-Oriented-Programming-aka-Uniwa  
-- https://github.com/Data-Structures-aka-Uniwa  
-- https://github.com/Compilers-aka-Uniwa  
-- https://github.com/Gandalf-Saga  
+**Organizations**  
+- [Computer-Programming-aka-Uniwa](https://github.com/Computer-Programming-aka-Uniwa)  
+- [Computer-Graphics-aka-Uniwa](https://github.com/Computer-Graphics-aka-Uniwa)  
+- [Data-Structures-aka-Uniwa](https://github.com/Data-Structures-aka-Uniwa)  
+- [Compilers-aka-Uniwa](https://github.com/Compilers-aka-Uniwa)  
+- [Gandalf-Saga](https://github.com/Gandalf-Saga)  
 
-**Projects**
-- Minesweeper Game  
-- Maze Game  
-- Media Player Application  
-- Custom Compiler (Uni-C)  
-- Data Structures (Stacks, Lists, Arrays)  
+**Projects**  
+- Minesweeper Game, Basic Programming Exercises  
+- Maze Game, Media Player  
+- Table-Chair, WebGL Examples  
+- Compiler Uni-C  
+- Arrays, Lists, Stacks  
 - Algorithm Design & Complexity Analysis  
+
+---
+
+### Databases & Data Management
+
+**Organizations**  
+- [Data-Bases-1](https://github.com/Data-Bases-1)  
+- [Data-Bases-2](https://github.com/Data-Bases-2)  
+
+**Projects**  
+- Create Database, SQL Queries, Join  
+- Constraints, Trigger, Functions/Procedures, Views  
+
+---
+
+### Logic & Electronics
+
+**Organizations**  
+- [Logic-Design-aka-Uniwa](https://github.com/Logic-Design-aka-Uniwa)  
+- [Microelectronics-aka-Uniwa](https://github.com/Microelectronics-aka-Uniwa)  
+
+**Projects**  
+- Adders & Deductors, Flip-Flops, Logic Gates, Register Slides  
+- 4-bit Converter  
+
+---
+
+### Signals & Communications
+
+**Organizations**  
+- [Digital-Communications-aka-Uniwa](https://github.com/Digital-Communications-aka-Uniwa)  
+- [Digital-Signal-Processing-aka-Uniwa](https://github.com/Digital-Signal-Processing-aka-Uniwa)  
+- [Signals-and-Systems-aka-Uniwa](https://github.com/Signals-and-Systems-aka-Uniwa)  
+
+**Projects**  
+- MATLAB projects, Analog Signals, Constant-Time Systems, Final  
+
+---
+
+### Mobile & IoT
+
+**Organizations**  
+- [Programming-of-Mobile-Devices](https://github.com/Programming-of-Mobile-Devices)  
+
+**Projects**  
+- Password Manager  
+- Traffic Lights IoT  
 
 ---
 
