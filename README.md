@@ -14,22 +14,25 @@ My interests include backend development, microservices architectures, container
 
 ## Tech Stack
 
-**Backend**
+**Backend**  
+![.NET](https://img.shields.io/badge/.NET-9.0-blue) ![C#](https://img.shields.io/badge/C%23-Advanced-blue) ![REST API](https://img.shields.io/badge/REST-APIs-lightgrey)
 
-- .NET (C#), REST APIs
+**Cloud & DevOps**  
+![Docker](https://img.shields.io/badge/Docker-Container-blue) ![Kubernetes](https://img.shields.io/badge/Kubernetes-Minikube-blue) ![CI/CD](https://img.shields.io/badge/CI%2FCD-Bash-green)
 
-**Cloud & DevOps**
+**Databases**  
+![MSSQL](https://img.shields.io/badge/MSSQL-Database-blue) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue) ![MongoDB](https://img.shields.io/badge/MongoDB-NoSQL-brightgreen) ![Redis](https://img.shields.io/badge/Redis-Cache-red)
 
-- Docker, Kubernetes (Minikube)
-- CI/CD (Bash, automation scripts)
+**Other**  
+![Linux](https://img.shields.io/badge/Linux-Kernel-orange) ![Git](https://img.shields.io/badge/Git-VersionControl-red) ![Networking](https://img.shields.io/badge/Networking-TCP%2FIP-blue)
 
-**Databases**
+---
 
-- MSSQL, PostgreSQL, MongoDB, Redis
+## GitHub Stats
 
-**Other**
-
-- Linux, Git, Networking (TCP/IP, DNS)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ath21&layout=compact&theme=dark" alt="Top Languages" />
+</p>
 
 ---
 
@@ -101,165 +104,212 @@ Projects are organized by flow/domain:
 
 ---
 
-### Software & Information Systems
+### Software Development & Engineering
 
-**Organizations**
+#### Programming Fundamentals
 
-- [Analysis-of-Information-Systems](https://github.com/Analysis-of-Information-Systems)
-- [Development-of-Information-Systems](https://github.com/Development-of-Information-Systems)
-- [Preze-Cinemas-Web](https://github.com/Preze-Cinemas-Web)
-- [Preze-Cinemas-Desktop](https://github.com/Preze-Cinemas-Desktop)
-- [Artificial-Intelligence-aka-Uniwa](https://github.com/Artificial-Intelligence-aka-Uniwa)
-- [Big-Data-Management-aka-Uniwa](https://github.com/Big-Data-Management-aka-Uniwa)
-- [Software-Development-Methodologies](https://github.com/Software-Development-Methodologies)
-- [Software-Quality-and-Reliability](https://github.com/Software-Quality-and-Reliability)
-- [Technical-Writing-aka-Uniwa](https://github.com/Technical-Writing-aka-Uniwa)
-- [Object-Oriented-Programming-aka-Uniwa](https://github.com/Object-Oriented-Programming-aka-Uniwa)
-- [Human-Computer-Interaction](https://github.com/Human-Computer-Interaction)
-- [Information-Retrieval-aka-Uniwa](https://github.com/Information-Retrieval-aka-Uniwa)
-- [Knowledge-Management-aka-Uniwa](https://github.com/Knowledge-Management-aka-Uniwa)
-- [E-Learning-aka-Uniwa](https://github.com/E-Learning-aka-Uniwa)
+- [Computer Programming](https://github.com/Computer-Programming-aka-Uniwa)
+  - Introduction to C Programming
+  - C Programming Fundamentals
+  - Control Structures
+  - Loops
+  - Subprograms
+  - Arrays, Pointers, Files
+  - Minesweeper
+- [Object-Oriented Programming](https://github.com/Object-Oriented-Programming-aka-Uniwa)
+  - From C to C++
+  - Introduction to C++ Classes
+  - Inheritance
+  - Babis Poteridis and the Magic Notebook Searching
+  - Media Player
+- [Data Structures](https://github.com/Data-Structures-aka-Uniwa)
+  - Arrays
+  - Stacks
+  - List
+- [Software Development Methodologies](https://github.com/Software-Development-Methodologies)
+  - Classes and Inheritance
+  - Java I/O
+  - Java GUI
+  - Event Handling
 
-**Projects**
+#### Software Engineering & Design
 
-- Bank Transaction System
-- Real Estate Management System
-- Cash Management System
-- Cinema Booking System (Backend & Frontend)
-- Genetic Algorithms
-- Search Algorithms
-- US Police Killings Data Analysis
-- HRLib & Software Methods
-- Java GUI Applications
-- Maze Game, Media Player, Class & Inheritance
-- Virtual Gym, Search Engine, KMS
-- AI-at-Education, Ollama
+- [Software Engineering](https://github.com/Preze-Cinemas-Desktop)
+  - Preze Cinemas Desktop - Phase 1
+    Use Case Analysis
+  - Preze Cinemas Desktop - Phase 2
+    Software Requirements Specification
+  - Preze Cinemas Desktop - Phase 3
+    Robustness Diagram Design
+  - Preze Cinemas Desktop - Phase 4
+    Source Code
+  - Preze Cinemas Desktop - Phase 5
+    User Acceptance Testing
+- [Special Topics in Software Engineering](https://github.com/Preze-Cinemas-Web)
+  - Preze Cinemas Web
+    Back-end
+  - Preze Cinemas Web
+    Front-end
+- [Software Quality and Reliability](https://github.com/Software-Quality-and-Reliability)
+  - Software Life Cycle Models and Methodologies
+  - Software Development in C# and Reliability using Unit Tests
+- [Analysis of Information Systems](https://github.com/Analysis-of-Information-Systems)
+  - Cash Withdrawal Analysis and Design
+  - Real Estate Marketing Analysis and Design
+- [Design and Development of Information Systems](https://github.com/Development-of-Information-Systems)
+  - Development of a Unified Information System to Support Operational Operations of Health Units: Cash Management Subsystem
 
----
+#### Game Development
 
-### Networking & Distributed Systems
-
-**Organizations**
-
-- [Cloud-Computing-and-Services](https://github.com/Cloud-Computing-and-Services)
-- [Computer-Networks-2](https://github.com/Computer-Networks-2)
-- [Distributed-Systems-aka-Uniwa](https://github.com/Distributed-Systems-aka-Uniwa)
-- [Network-Programming-aka-Uniwa](https://github.com/Network-Programming-aka-Uniwa)
-- [Information-Technology-Security](https://github.com/Information-Technology-Security)
-
-**Projects**
-
-- Virtual Lab
-- CloudSim
-- OSPF & TCP Communication
-- RMI & RPC Systems
-- Socket Programming
-- SQL Injection & TLS Scanning
-- Buffer Overflow Exploitation
-
----
-
-### Systems & Low-Level Computing
-
-**Organizations**
-
-- [Operating-Systems-1](https://github.com/Operating-Systems-1)
-- [Operating-Systems-2-aka-Uniwa](https://github.com/Operating-Systems-2-aka-Uniwa)
-- [Signals-and-Systems-aka-Uniwa](https://github.com/Signals-and-Systems-aka-Uniwa)
-- [Digital-Signal-Processing-aka-Uniwa](https://github.com/Digital-Signal-Processing-aka-Uniwa)
-- [Circuit-Theory](https://github.com/Circuit-Theory)
-- [Digital-Circuit-Design](https://github.com/Digital-Circuit-Design)
-- [Electronics-aka-Uniwa](https://github.com/Electronics-aka-Uniwa)
-- [Parallel-Systems-aka-Uniwa](https://github.com/Parallel-Systems-aka-Uniwa)
-- [Introduction-to-Parallel-Computing](https://github.com/Introduction-to-Parallel-Computing)
-- [Physics-aka-Uniwa](https://github.com/Physics-aka-Uniwa)
-
-**Projects**
-
-- Bash Scripting & Linux Commands
-- Fork, Threads & Synchronization
-- Signal Processing (MATLAB)
-- MIPS Architecture & VHDL
-- RLC Circuits (AC/DC)
-- CUDA & OpenMP Parallel Programming
-- Multithreaded Systems
+- [Human-Computer Interaction](https://github.com/Human-Computer-Interaction)
+  - Virtual Gym
+- [Computer Graphics](https://github.com/Computer-Graphics-aka-Uniwa)
+  - Building a 3D Graphics Scene Using WebGL
 
 ---
 
-### Programming & Core Computer Science
+## Data Science & Artificial Intelligence
 
-**Organizations**
+#### Intelligence & Retrieval
 
-- [Computer-Programming-aka-Uniwa](https://github.com/Computer-Programming-aka-Uniwa)
-- [Computer-Graphics-aka-Uniwa](https://github.com/Computer-Graphics-aka-Uniwa)
-- [Data-Structures-aka-Uniwa](https://github.com/Data-Structures-aka-Uniwa)
-- [Compilers-aka-Uniwa](https://github.com/Compilers-aka-Uniwa)
-- [Gandalf-Saga](https://github.com/Gandalf-Saga)
+- [Artificial Intelligence](https://github.com/Artificial-Intelligence-aka-Uniwa)
+  - Real Genetic Algorithm Application
+  - Application of Search Algorithms to the Pacman Problem
+- [Information Retrieval](https://github.com/Information-Retrieval-aka-Uniwa)
+  - Building a Search Engine for Academic Papers
+- [E-Learning](https://github.com/E-Learning-aka-Uniwa)
+  - Artificial Intelligence at Education - Report
+  - Artificial Intelligence at Education - Ollama
 
-**Projects**
-
-- Minesweeper Game, Basic Programming Exercises
-- Maze Game, Media Player
-- Table-Chair, WebGL Examples
-- Compiler Uni-C
-- Arrays, Lists, Stacks
-- Algorithm Design & Complexity Analysis
-
----
-
-### Databases & Data Management
-
-**Organizations**
+#### Data Management
 
 - [Data-Bases-1](https://github.com/Data-Bases-1)
+  - Create and Manage a Database
+  - Subqueries in SQL Language
+  - Classification and Suggestions - GROUP BY, AND, HAVING, JOIN
 - [Data-Bases-2](https://github.com/Data-Bases-2)
-
-**Projects**
-
-- Create Database, SQL Queries, Join
-- Constraints, Trigger, Functions/Procedures, Views
-
----
-
-### Logic & Electronics
-
-**Organizations**
-
-- [Logic-Design-aka-Uniwa](https://github.com/Logic-Design-aka-Uniwa)
-- [Microelectronics-aka-Uniwa](https://github.com/Microelectronics-aka-Uniwa)
-
-**Projects**
-
-- Adders & Deductors, Flip-Flops, Logic Gates, Register Slides
-- 4-bit Converter
+  - Creation of Database personnel
+  - Constraints
+  - Views
+  - Trigger
+  - Variables, Functions, Procedures
+- [Big Data Management](https://github.com/Big-Data-Management-aka-Uniwa)
+  - Analysis of Unemployment and Police Killings in United States
 
 ---
 
-### Signals & Communications
+### Systems, Networking & Security
 
-**Organizations**
+#### Operating Systems & Low-Level
 
-- [Digital-Communications-aka-Uniwa](https://github.com/Digital-Communications-aka-Uniwa)
-- [Digital-Signal-Processing-aka-Uniwa](https://github.com/Digital-Signal-Processing-aka-Uniwa)
-- [Signals-and-Systems-aka-Uniwa](https://github.com/Signals-and-Systems-aka-Uniwa)
+- [Operating Systems I](https://github.com/Operating-Systems-1)
+  - Basic Linux Commands
+  - Bash Scripts
+- [Operating Systems II](https://github.com/Operating-Systems-2-aka-Uniwa)
+  - Process Management with Fork and Wait in C
+  - Parallel Inner Product Calculation using C POSIX Threads
+  - POSIX Threads Synchronization - Semaphores, Condition Variables
+  - UNIX-Domain Stream Sockets Communication for Fibonacci Sequence Validation
+- [Compilers](https://github.com/Compilers-aka-Uniwa)
+  - Design and Implementation of a Compiler at Uni-C
 
-**Projects**
+#### Networking & Distributed Systems
 
-- MATLAB projects, Analog Signals, Constant-Time Systems, Final
+- [Computer Networks II](https://github.com/Computer-Networks-2)
+  - OSPF Routing
+  - TCP
+- [Network Programming](https://github.com/Network-Programming-aka-Uniwa)
+  - Sockets
+- [Distributed Systems](https://github.com/Distributed-Systems-aka-Uniwa)
+  - Mathematical Equations using Remote Procedure Call (RPC)
+  - Theater Reservation System with Java RMI
+- [Cloud Computing and Services](https://github.com/Cloud-Computing-and-Services)
+  - Use Cases at CloudSim
+  - Virtual Lab – Dockerized Cloud Services
+- [Internet of Things](https://github.com/Internet-of-Things-aka-Uniwa)
+  - Traffic Light Sequence with Arduino UNO, ESP-01 and ThingSpeak
+
+#### Cyber Security
+
+- [Information Technology Security](https://github.com/Information-Technology-Security)
+  - Buffer Overflow
+  - Cryptography
+  - SQL Injection
+  - Android Repackaging
+  - TLS Scanning
+- [Programming of Mobile Devices](https://github.com/Programming-of-Mobile-Devices)
+  - Password Manager on Java Android
 
 ---
 
-### Mobile & IoT
+### Hardware & High-Performance Computing
 
-**Organizations**
+#### Circuits & Electronics
 
-- [Programming-of-Mobile-Devices](https://github.com/Programming-of-Mobile-Devices)
-- [Internet-of-Things-aka-Uniwa](https://github.com/Internet-of-Things-aka-Uniwa)
+- [Circuit Theory](https://github.com/Circuit-Theory)
+  - Kirchhoff's Laws - Ohm Law - Potentiometer - Rheostat
+  - RLC Components, Transient Response
+  - RLC Component Connections to AC Power Supply
+  - Coordination
+- [Electronics](https://github.com/Electronics-aka-Uniwa)
+  - Resistance and Oscilloscope
+  - Diode
+  - RC Filters and Scissors
+  - Rectification
+  - Bipolar Junction Transistor (BJT)
+- [Logic Design](https://github.com/Logic-Design-aka-Uniwa)
+  - Logic Gates
+  - Flip Flops
+  - Adders Deductors
+  - Registers Sliders
+- [Microelectronics](https://github.com/Microelectronics-aka-Uniwa)
+  - 4-bit AD/DA Converter using Operational Amplifiers
+- [Digital Circuit Design](https://github.com/Digital-Circuit-Design)
+  - Introduction to the simulation environment
+  - Sequential Circuits
+  - Register Files
+  - Simple Circle of a MIPS Processor
 
-**Projects**
+#### Parallel & Scientific Computing
 
-- Password Manager
-- Traffic Lights IoT
+- [Introduction to Parallel Computing](https://github.com/Introduction-to-Parallel-Computing)
+  - Message Passing Interface (MPI)
+  - Collective Communication
+- [Parallel Systems](https://github.com/Parallel-Systems-aka-Uniwa)
+  - Parallel Computing using OpenMP
+  - Multisort
+  - Parallel Computing using CUDA
+  - Covariance Register
+
+---
+
+### Signals & Mathematics
+
+- [Algorithms and Complexity](https://github.com/Gandalf-Saga)
+  - Design and Analysis of Algorithms
+  - Algorithms and Complexity
+- [Signals and Systems](https://github.com/Signals-and-Systems-aka-Uniwa)
+  - Learning of Matlab
+  - Analog Signals
+  - Constant Time Systems
+  - Final Project
+- [Digital Signal Processing](https://github.com/Digital-Signal-Processing-aka-Uniwa)
+  - Digital Signal Processing at Matlab
+- [Digital Communications](https://github.com/Digital-Communications-aka-Uniwa)
+  - Digital Communications at Matlab
+- [Physics](https://github.com/Physics-aka-Uniwa)
+  - Errors
+
+---
+
+### Writing Documentation
+
+- [Technical Writing](https://github.com/Technical-Writing-aka-Uniwa)
+  - Technical Documentation Standards
+  - Course Template
+  - Equations at MS Word and Drawings at MS Visio
+- [Knowledge Management](https://github.com/Knowledge-Management-aka-Uniwa)
+  - Knowledge Management Systems
 
 ---
 
