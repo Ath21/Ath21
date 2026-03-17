@@ -74,6 +74,12 @@ https://github.com/Preze-Cinemas-Web/Back-end
 
 ---
 
+## Academic Projects
+
+Projects are organized by flow/domain:
+
+---
+
 ### Software & Information Systems
 
 **Organizations**  
@@ -115,8 +121,7 @@ https://github.com/Preze-Cinemas-Web/Back-end
 - [Computer-Networks-2](https://github.com/Computer-Networks-2)  
 - [Distributed-Systems-aka-Uniwa](https://github.com/Distributed-Systems-aka-Uniwa)  
 - [Network-Programming-aka-Uniwa](https://github.com/Network-Programming-aka-Uniwa)  
-- [Information-Technology-Security](https://github.com/Information-Technology-Security)  
-- [Internet-of-Things-aka-Uniwa](https://github.com/Internet-of-Things-aka-Uniwa)  
+- [Information-Technology-Security](https://github.com/Information-Technology-Security)    
 
 **Projects**  
 - Virtual Lab  
@@ -124,7 +129,6 @@ https://github.com/Preze-Cinemas-Web/Back-end
 - OSPF & TCP Communication  
 - RMI & RPC Systems  
 - Socket Programming  
-- Traffic Lights IoT System  
 - SQL Injection & TLS Scanning  
 - Buffer Overflow Exploitation  
 
@@ -213,7 +217,8 @@ https://github.com/Preze-Cinemas-Web/Back-end
 ### Mobile & IoT
 
 **Organizations**  
-- [Programming-of-Mobile-Devices](https://github.com/Programming-of-Mobile-Devices)  
+- [Programming-of-Mobile-Devices](https://github.com/Programming-of-Mobile-Devices)
+- [Internet-of-Things-aka-Uniwa](https://github.com/Internet-of-Things-aka-Uniwa)
 
 **Projects**  
 - Password Manager  
