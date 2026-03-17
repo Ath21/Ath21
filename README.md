@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="github-header-banner.png" alt="Github" width="150"/>
+  <img src="github-header-banner.png" alt="Github"/>
 </p>
 
 MSc in Informatics and Computer Engineering  
