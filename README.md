@@ -30,7 +30,7 @@ I specialize in architecting scalable backend systems and cloud-native applicati
 
 ## 🚀 Featured Projects
 
-### 🚥 Smart Traffic Lights System (Research Project)
+### 🚥 Smart Traffic Lights System (Diploma Thesis)
 
 _Cloud-native system for intelligent traffic management using scalable microservices._
 
