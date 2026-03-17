@@ -257,9 +257,14 @@ _Robust RESTful API for high-concurrency booking operations._
 <details>
 <summary>📂 <b>Signals & Mathematics</b></summary>
 
+#### Algorithms
+
 - [Algorithms and Complexity](https://github.com/Gandalf-Saga)
   - Design and Analysis of Algorithms
   - Algorithms and Complexity
+
+#### Signals
+
 - [Signals and Systems](https://github.com/Signals-and-Systems-aka-Uniwa)
   - Learning of Matlab
   - Analog Signals
