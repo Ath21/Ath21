@@ -183,11 +183,11 @@ Projects are organized by flow/domain:
 
 #### Data Management
 
-- [Data-Bases-1](https://github.com/Data-Bases-1)
+- [Databases I](https://github.com/Data-Bases-1)
   - Create and Manage a Database
   - Subqueries in SQL Language
   - Classification and Suggestions - GROUP BY, AND, HAVING, JOIN
-- [Data-Bases-2](https://github.com/Data-Bases-2)
+- [Databases II](https://github.com/Data-Bases-2)
   - Creation of Database personnel
   - Constraints
   - Views
