@@ -79,4 +79,4 @@ Academic projects (networking, distributed systems, algorithms) are organized in
 
 ## 📫 Contact
 
-- LinkedIn: [https://www.linkedin.com/in/YOUR-LINK](https://www.linkedin.com/in/vasilis-athanasiou-7036b53a4/)
+- LinkedIn: (https://www.linkedin.com/in/vasilis-athanasiou-7036b53a4/)
