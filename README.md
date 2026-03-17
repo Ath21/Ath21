@@ -2,8 +2,6 @@
   <img src="github-header-banner.png" alt="Github"/>
 </p>
 
-🎓 **MSc in Informatics and Computer Engineering**
-
 ---
 
 ## About Me
