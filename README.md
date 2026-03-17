@@ -164,6 +164,12 @@ _Robust RESTful API for high-concurrency booking operations._
   - Real Estate Marketing Analysis and Design
 - [Design and Development of Information Systems](https://github.com/Development-of-Information-Systems)
   - Development of a Unified Information System to Support Operational Operations of Health Units: Cash Management Subsystem
+- [Technical Writing](https://github.com/Technical-Writing-aka-Uniwa)
+  - Technical Documentation Standards
+  - Course Template
+  - Equations at MS Word and Drawings at MS Visio
+- [Knowledge Management](https://github.com/Knowledge-Management-aka-Uniwa)
+  - Knowledge Management Systems
 
 #### Game Development
 
@@ -171,6 +177,7 @@ _Robust RESTful API for high-concurrency booking operations._
   - Virtual Gym
 - [Computer Graphics](https://github.com/Computer-Graphics-aka-Uniwa)
   - Building a 3D Graphics Scene Using WebGL
+  - WebGL Tutorial
 
 </details>
 
@@ -266,18 +273,6 @@ _Robust RESTful API for high-concurrency booking operations._
   - Errors
 
 </details>
-
-<details>
-<summary>📂 <b>Writing Documentation</b></summary>
-
-- [Technical Writing](https://github.com/Technical-Writing-aka-Uniwa)
-  - Technical Documentation Standards
-  - Course Template
-  - Equations at MS Word and Drawings at MS Visio
-- [Knowledge Management](https://github.com/Knowledge-Management-aka-Uniwa)
-  - Knowledge Management Systems
-
-</details
 
 ---
 
