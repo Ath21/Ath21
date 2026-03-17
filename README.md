@@ -2,9 +2,7 @@
   <img src="github-header-banner.png" alt="Github"/>
 </p>
 
-MSc in Informatics and Computer Engineering  
-Backend / Cloud / DevOps Engineer  
-Greece | Available July 2026
+🎓 **MSc in Informatics and Computer Engineering**
 
 ---
 
@@ -266,6 +264,10 @@ Projects are organized by flow/domain:
 - Traffic Lights IoT
 
 ---
+
+<p align="center">
+  <img src="linkedin.png" alt="UNIWA" width="150"/>
+</p>
 
 ## Contact
 
