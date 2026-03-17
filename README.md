@@ -1,110 +1,116 @@
 <p align="center">
-  <img src="github.png" alt="Git"/>
+  <img src="github-header-banner.png" alt="Git"/>
 </p>
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-I focus on designing and building scalable backend systems and cloud-native applications using modern engineering practices.
+I specialize in architecting scalable backend systems and cloud-native applications. My approach combines modern engineering practices with academic rigor, focusing on microservices, container orchestration, and high-availability infrastructure.
 
-My interests include backend development, microservices architectures, containerization, and cloud infrastructure, with an emphasis on automation and system reliability.
-
----
-
-## Tech Stack
-
-**Backend**  
-![.NET](https://img.shields.io/badge/.NET-9.0-blue) ![C#](https://img.shields.io/badge/C%23-Advanced-blue) ![REST API](https://img.shields.io/badge/REST-APIs-lightgrey)
-
-**Cloud & DevOps**  
-![Docker](https://img.shields.io/badge/Docker-Container-blue) ![Kubernetes](https://img.shields.io/badge/Kubernetes-Minikube-blue) ![CI/CD](https://img.shields.io/badge/CI%2FCD-Bash-green)
-
-**Databases**  
-![MSSQL](https://img.shields.io/badge/MSSQL-Database-blue) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue) ![MongoDB](https://img.shields.io/badge/MongoDB-NoSQL-brightgreen) ![Redis](https://img.shields.io/badge/Redis-Cache-red)
-
-**Other**  
-![Linux](https://img.shields.io/badge/Linux-Kernel-orange) ![Git](https://img.shields.io/badge/Git-VersionControl-red) ![Networking](https://img.shields.io/badge/Networking-TCP%2FIP-blue)
+- **Current Focus:** Collaborating with academic supervisors to prepare the **Smart Traffic Lights System (STLS)** for peer-reviewed publication.
+- **Interests:** Distributed Systems, System Reliability, Automation (CI/CD), and Performance Optimization.
+- **Education:**
+  - MSc in Informatics and Computer Engineering at University of West Attica (UNIWA).
+  - Certificate of English Language Proficiency
 
 ---
 
-## GitHub Stats
+## 🛠 Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ath21&layout=compact&theme=dark" alt="Top Languages" />
-</p>
+**Backend & Logic** ![.NET](https://img.shields.io/badge/.NET-9.0-blue) ![C#](https://img.shields.io/badge/C%23-Advanced-blue) ![REST API](https://img.shields.io/badge/REST-APIs-lightgrey) ![Java](https://img.shields.io/badge/Java-Advanced-blue)
 
----
+**Cloud & DevOps** ![Docker](https://img.shields.io/badge/Docker-Compose-blue) ![Kubernetes](https://img.shields.io/badge/Kubernetes-Minikube-blue) ![CI/CD](https://img.shields.io/badge/CI%2FCD-Bash-green) ![Linux](https://img.shields.io/badge/Linux-Kernel-orange)
 
-## Featured Projects
+**Databases & Caching** ![MSSQL](https://img.shields.io/badge/MSSQL-Database-blue) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue) ![MongoDB](https://img.shields.io/badge/MongoDB-NoSQL-brightgreen) ![Redis](https://img.shields.io/badge/Redis-Cache-red)
 
-<p align="center">
-  <img src="uniwa-stls.png" alt="STLS" width="150"/>
-</p>
-
-### Smart Traffic Lights System
-
-Cloud-native system for traffic management using scalable microservices and container orchestration.
-
-- Built backend microservices using .NET (C#) and REST APIs
-- Designed event-driven architecture with RabbitMQ
-- Containerized services using Docker and deployed on Kubernetes (Minikube)
-- Implemented CI/CD pipelines for automated build and deployment
-- Used SQL & NoSQL databases (PostgreSQL, MongoDB, Redis)
-
-Repository:  
-https://github.com/Ath21/Smart-Traffic-Lights-System
-
-Thesis:  
-https://polynoe.lib.uniwa.gr/xmlui/handle/11400/11153
+**Core Engineering** ![Git](https://img.shields.io/badge/Git-VersionControl-red) ![Networking](https://img.shields.io/badge/Networking-TCP%2FIP-blue) ![Algorithms](https://img.shields.io/badge/Algorithms-Complexity-lightgrey)
 
 ---
 
-<p align="center">
-  <img src="docker.png" alt="Docker" width="150"/>
-</p>
+## 🚀 Featured Projects
 
-### Cloud Virtual Lab
+### 🚥 Smart Traffic Lights System (Research Project)
 
-Containerized environment for deploying and testing distributed services.
+_Cloud-native system for intelligent traffic management using scalable microservices._
 
-- Multi-container architecture using Docker Compose
-- Service communication and internal networking
-- Configurable environments for deployment scenarios
-
-Repository:  
-https://github.com/Cloud-Computing-and-Services/Virtual-Lab
+- **Status:** Currently being prepared for **academic publication**.
+- **Architecture:** Event-driven microservices built with **.NET 9.0** and **RabbitMQ**.
+- **Infrastructure:** Fully containerized with **Docker** and orchestrated via **Kubernetes**.
+- **Data:** Hybrid persistence using **PostgreSQL** and **MongoDB** with **Redis** for low-latency caching.
+- [**Repository**](https://github.com/Ath21/Smart-Traffic-Lights-System) | [**Thesis Link**](https://polynoe.lib.uniwa.gr/xmlui/handle/11400/11153)
 
 ---
 
-<p align="center">
-  <img src="csharp.png" alt="csharp" width="150"/>
-</p>
+### ☁️ Cloud Virtual Lab
 
-### Cinema Booking Backend
+_A multi-container environment for deploying and stress-testing distributed services._
 
-Backend system for managing cinema bookings and operations.
-
-- REST API built with .NET
-- Database integration and persistence
-- Client-server architecture
-
-Repository:  
-https://github.com/Preze-Cinemas-Web/Back-end
+- Utilizes **Docker Compose** to simulate complex networking scenarios.
+- Focuses on internal service communication and environment configurability.
+- [**Repository**](https://github.com/Cloud-Computing-and-Services/Virtual-Lab)
 
 ---
 
-<p align="center">
-  <img src="https://www.especial.gr/wp-content/uploads/2019/03/panepisthmio-dut-attikhs.png" alt="UNIWA" width="150"/>
-</p>
+### 🎬 Cinema Booking Backend
 
-## Academic Projects
+_Robust RESTful API for high-concurrency booking operations._
 
-Projects are organized by flow/domain:
+- Built with **.NET** focusing on clean monolithic architecture and data persistence.
+- Implemented secure client-server communication protocols.
+- [**Repository**](https://github.com/Preze-Cinemas-Web/Back-end)
 
 ---
 
-### Software Development & Engineering
+## 🎓 Academic Roadmap (UNIWA)
+
+<details>
+<summary>📂 <b>Systems, Networking & Security</b></summary>
+
+#### Operating Systems & Low-Level Programming
+
+- [Operating Systems I](https://github.com/Operating-Systems-1)
+  - Basic Linux Commands
+  - Bash Scripts
+- [Operating Systems II](https://github.com/Operating-Systems-2-aka-Uniwa)
+  - Process Management with Fork and Wait in C
+  - Parallel Inner Product Calculation using C POSIX Threads
+  - POSIX Threads Synchronization - Semaphores, Condition Variables
+  - UNIX-Domain Stream Sockets Communication for Fibonacci Sequence Validation
+- [Compilers](https://github.com/Compilers-aka-Uniwa)
+  - Design and Implementation of a Compiler at Uni-C
+
+#### Networking & Distributed Systems
+
+- [Computer Networks II](https://github.com/Computer-Networks-2)
+  - OSPF Routing
+  - TCP
+- [Network Programming](https://github.com/Network-Programming-aka-Uniwa)
+  - Sockets
+- [Distributed Systems](https://github.com/Distributed-Systems-aka-Uniwa)
+  - Mathematical Equations using Remote Procedure Call (RPC)
+  - Theater Reservation System with Java RMI
+- [Cloud Computing and Services](https://github.com/Cloud-Computing-and-Services)
+  - Use Cases at CloudSim
+  - Virtual Lab - Dockerized Cloud Services
+- [Internet of Things](https://github.com/Internet-of-Things-aka-Uniwa)
+  - Traffic Light Sequence with Arduino UNO, ESP-01 and ThingSpeak
+
+#### Cyber Security
+
+- [Information Technology Security](https://github.com/Information-Technology-Security)
+  - Buffer Overflow
+  - Cryptography
+  - SQL Injection
+  - Android Repackaging
+  - TLS Scanning
+- [Programming of Mobile Devices](https://github.com/Programming-of-Mobile-Devices)
+  - Password Manager on Java Android
+
+</details>
+
+<details>
+<summary>📂 <b>Software Engineering & Development</b></summary>
 
 #### Programming Fundamentals
 
@@ -166,9 +172,10 @@ Projects are organized by flow/domain:
 - [Computer Graphics](https://github.com/Computer-Graphics-aka-Uniwa)
   - Building a 3D Graphics Scene Using WebGL
 
----
+</details>
 
-## Data Science & Artificial Intelligence
+<details>
+<summary>📂 <b>Data Science & AI</b></summary>
 
 #### Intelligence & Retrieval
 
@@ -196,53 +203,10 @@ Projects are organized by flow/domain:
 - [Big Data Management](https://github.com/Big-Data-Management-aka-Uniwa)
   - Analysis of Unemployment and Police Killings in United States
 
----
+</details>
 
-### Systems, Networking & Security
-
-#### Operating Systems & Low-Level Programming
-
-- [Operating Systems I](https://github.com/Operating-Systems-1)
-  - Basic Linux Commands
-  - Bash Scripts
-- [Operating Systems II](https://github.com/Operating-Systems-2-aka-Uniwa)
-  - Process Management with Fork and Wait in C
-  - Parallel Inner Product Calculation using C POSIX Threads
-  - POSIX Threads Synchronization - Semaphores, Condition Variables
-  - UNIX-Domain Stream Sockets Communication for Fibonacci Sequence Validation
-- [Compilers](https://github.com/Compilers-aka-Uniwa)
-  - Design and Implementation of a Compiler at Uni-C
-
-#### Networking & Distributed Systems
-
-- [Computer Networks II](https://github.com/Computer-Networks-2)
-  - OSPF Routing
-  - TCP
-- [Network Programming](https://github.com/Network-Programming-aka-Uniwa)
-  - Sockets
-- [Distributed Systems](https://github.com/Distributed-Systems-aka-Uniwa)
-  - Mathematical Equations using Remote Procedure Call (RPC)
-  - Theater Reservation System with Java RMI
-- [Cloud Computing and Services](https://github.com/Cloud-Computing-and-Services)
-  - Use Cases at CloudSim
-  - Virtual Lab - Dockerized Cloud Services
-- [Internet of Things](https://github.com/Internet-of-Things-aka-Uniwa)
-  - Traffic Light Sequence with Arduino UNO, ESP-01 and ThingSpeak
-
-#### Cyber Security
-
-- [Information Technology Security](https://github.com/Information-Technology-Security)
-  - Buffer Overflow
-  - Cryptography
-  - SQL Injection
-  - Android Repackaging
-  - TLS Scanning
-- [Programming of Mobile Devices](https://github.com/Programming-of-Mobile-Devices)
-  - Password Manager on Java Android
-
----
-
-### Hardware & High-Performance Computing
+<details>
+<summary>📂 <b>Hardware & Parallel Computing</b></summary>
 
 #### Circuits & Electronics
 
@@ -281,9 +245,10 @@ Projects are organized by flow/domain:
   - Parallel Computing using CUDA
   - Covariance Register
 
----
+</details>
 
-### Signals & Mathematics
+<details>
+<summary>📂 <b>Signals & Mathematics</b></summary>
 
 - [Algorithms and Complexity](https://github.com/Gandalf-Saga)
   - Design and Analysis of Algorithms
@@ -300,9 +265,10 @@ Projects are organized by flow/domain:
 - [Physics](https://github.com/Physics-aka-Uniwa)
   - Errors
 
----
+</details>
 
-### Writing Documentation
+<details>
+<summary>📂 <b>Writing Documentation</b></summary>
 
 - [Technical Writing](https://github.com/Technical-Writing-aka-Uniwa)
   - Technical Documentation Standards
@@ -311,18 +277,20 @@ Projects are organized by flow/domain:
 - [Knowledge Management](https://github.com/Knowledge-Management-aka-Uniwa)
   - Knowledge Management Systems
 
+</details
+
 ---
 
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="linkedin.png" alt="UNIWA" width="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ath21&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
-## Contact
+---
 
-LinkedIn:
+## 📬 Contact & Connect
 
-https://www.linkedin.com/in/vasilis-athanasiou-7036b53a4/
-
-Email:
-
-vathanasiou1908@gmail.com
+- **LinkedIn:** [vasilis-athanasiou-7036b53a4](https://www.linkedin.com/in/vasilis-athanasiou-7036b53a4/)
+- **Email:** [vathanasiou1908@gmail.com](mailto:vathanasiou1908@gmail.com)
+- **Location:** Athens, Greece 🇬🇷
