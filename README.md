@@ -30,16 +30,15 @@ I specialize in architecting scalable backend systems and cloud-native applicati
 
 ## 🚀 Featured Projects
 
-### 🚥 Smart Traffic Lights System (STLS)
+### 🚥 [Diploma Thesis](https://polynoe.lib.uniwa.gr/xmlui/handle/11400/11153): Design and Implementation of Smart Traffic Lights System using Microservices and Container-based Virtualization
 
-**Flow: IoT & Cloud Architecture (Diploma Thesis)**
+**Flow: IoT & Cloud Architecture**
 
 - Architected a cloud-native, event-driven system using **.NET 9.0 microservices** and **RabbitMQ** for intelligent traffic management.
 - Orchestrated the stack with **Docker** and **Kubernetes**, utilizing a hybrid data approach with **MSSQL**, **PostgreSQL**, **MongoDB**, and **Redis**.
 - 🔗 **Repository:** [Ath21/Smart-Traffic-Lights-System](https://github.com/Ath21/Smart-Traffic-Lights-System)
-- 🎓 **Thesis:** [Digital Library of UNIWA (Polynoe)](https://polynoe.lib.uniwa.gr/xmlui/handle/11400/11153)
 
-### 📊 Big Data: US Police Incident Analysis
+### 📊 [Big Data Management](<(https://github.com/Big-Data-Management-aka-Uniwa)>): Analysis of Unemployment and Police Killings in United States
 
 **Flow: Data Science & AI**
 
@@ -47,7 +46,7 @@ I specialize in architecting scalable backend systems and cloud-native applicati
 - Processed and visualized complex datasets using **Python (Pandas, Scikit-learn, Matplotlib)** to extract spatial patterns.
 - 🔗 **Repository:** [Big-Data-Management-aka-Uniwa/US-Police-Killing-Search](https://github.com/Big-Data-Management-aka-Uniwa/US-Police-Killing-Search)
 
-### 🎬 Preze Cinemas Web Back-end
+### 🎬 [Special Topics in Software Engineering](https://github.com/Preze-Cinemas-Web): Preze Cinemas Web Back-end
 
 **Flow: Software Engineering & Development**
 
@@ -55,7 +54,7 @@ I specialize in architecting scalable backend systems and cloud-native applicati
 - Implemented Monolithic Architecture principles to ensure system reliability and scalability during peak booking loads.
 - 🔗 **Repository:** [Preze-Cinemas-Web/Back-end](https://github.com/Preze-Cinemas-Web/Back-end)
 
-### ⚡ Parallel Covariance Register (CUDA)
+### ⚡ [Parallel Systems](https://github.com/Parallel-Systems-aka-Uniwa): Covariance Register
 
 **Flow: Hardware & Parallel Computing**
 
@@ -63,7 +62,7 @@ I specialize in architecting scalable backend systems and cloud-native applicati
 - Optimized memory throughput and thread synchronization for high-performance mathematical processing.
 - 🔗 **Repository:** [Parallel-Systems-aka-Uniwa/Covariance-Register](https://github.com/Parallel-Systems-aka-Uniwa/Covariance-Register)
 
-### ☁️ Cloud Virtual Lab
+### ☁️ [Cloud Computing & Services](<(https://github.com/Cloud-Computing-and-Services)>): Virtual Lab - Dockerized Cloud Services
 
 **Flow: Systems & Networking**
 
@@ -71,7 +70,7 @@ I specialize in architecting scalable backend systems and cloud-native applicati
 - Configured isolated virtual networks and persistent storage volumes to simulate production-grade cloud environments.
 - 🔗 **Repository:** [Cloud-Computing-and-Services/Virtual-Lab](https://github.com/Cloud-Computing-and-Services/Virtual-Lab)
 
-### 📈 Digital Signal Processing (DSP) in MATLAB
+### 📈 [Digital Signal Processing](https://github.com/Digital-Signal-Processing-aka-Uniwa): MATLAB
 
 **Flow: Signals & Mathematics**
 
