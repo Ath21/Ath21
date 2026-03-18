@@ -62,7 +62,7 @@ I specialize in architecting scalable backend systems and cloud-native applicati
 - Optimized memory throughput and thread synchronization for high-performance mathematical processing.
 - 🔗 **Repository:** [Parallel-Systems-aka-Uniwa/Covariance-Register](https://github.com/Parallel-Systems-aka-Uniwa/Covariance-Register)
 
-### ☁️ [Cloud Computing & Services](<(https://github.com/Cloud-Computing-and-Services)>): Virtual Lab - Dockerized Cloud Services
+### ☁️ [Cloud Computing & Services](https://github.com/Cloud-Computing-and-Services): Virtual Lab - Dockerized Cloud Services
 
 **Flow: Systems & Networking**
 
