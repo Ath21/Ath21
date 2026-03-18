@@ -28,7 +28,7 @@ I specialize in architecting scalable backend systems and cloud-native applicati
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Top Featured Projects
 
 ### 🚥 [Diploma Thesis](https://polynoe.lib.uniwa.gr/xmlui/handle/11400/11153): Design and Implementation of Smart Traffic Lights System using Microservices and Container-based Virtualization
 
@@ -45,6 +45,22 @@ I specialize in architecting scalable backend systems and cloud-native applicati
 - Conducted a socio-economic study using **K-Means Clustering** to identify correlations between unemployment, poverty, and fatal incidents.
 - Processed and visualized complex datasets using **Python (Pandas, Scikit-learn, Matplotlib)** to extract spatial patterns.
 - 🔗 **Repository:** [Big-Data-Management-aka-Uniwa/US-Police-Killing-Search](https://github.com/Big-Data-Management-aka-Uniwa/US-Police-Killing-Search)
+
+### 🤖 [E-Learning](https://github.com/E-Learning-aka-Uniwa): Artificial Intelligence at Education - Ollama
+
+**Flow: Data Science & AI / E-Learning**
+
+- Integrated **Ollama** to deploy and manage local Large Language Models (LLMs) for educational research and automated reporting.
+- Focused on the intersection of AI and Education, implementing privacy-preserving, on-premise AI deployments.
+- 🔗 **Repository:** [E-Learning-aka-Uniwa/Ollama](https://github.com/E-Learning-aka-Uniwa/Ollama.git)
+
+### 🖥️ [Software Engineering](https://github.com/Preze-Cinemas-Desktop): Preze Cinemas Desktop - Phase 4 Source Code
+
+**Flow: Software Engineering & Development**
+
+- Developed a comprehensive desktop ERP for cinema management using **Java Swing** and **AWT**, focusing on custom event handling and complex UI layouts.
+- Implemented the full **Software Engineering lifecycle**: from Phase 1 (Use Case Analysis) and Phase 3 (Robustness Diagrams) to a fully functional Phase 4 Source Code.
+- 🔗 **Repository:** [Preze-Cinemas-Desktop/Code](https://github.com/Preze-Cinemas-Desktop/Code)
 
 ### 🎬 [Special Topics in Software Engineering](https://github.com/Preze-Cinemas-Web): Preze Cinemas Web Back-end
 
