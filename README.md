@@ -38,7 +38,7 @@ I specialize in architecting scalable backend systems and cloud-native applicati
 - Orchestrated the stack with **Docker** and **Kubernetes**, utilizing a hybrid data approach with **MSSQL**, **PostgreSQL**, **MongoDB**, and **Redis**.
 - 🔗 **Repository:** [Ath21/Smart-Traffic-Lights-System](https://github.com/Ath21/Smart-Traffic-Lights-System)
 
-### 📊 [Big Data Management](<(https://github.com/Big-Data-Management-aka-Uniwa)>): Analysis of Unemployment and Police Killings in United States
+### 📊 [Big Data Management](https://github.com/Big-Data-Management-aka-Uniwa): Analysis of Unemployment and Police Killings in United States
 
 **Flow: Data Science & AI**
 
