@@ -4,15 +4,35 @@
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-I specialize in architecting scalable backend systems and cloud-native applications. My approach combines modern engineering practices with academic rigor, focusing on microservices, container orchestration, and high-availability infrastructure.
+I am a software engineer specializing in **distributed systems, cloud-native architectures, and smart infrastructure**. My work focuses on bridging the gap between industry-standard engineering and academic research, specifically in scaling intelligent urban systems.
 
-- **Current Focus:** Collaborating with academic supervisors to prepare the **Smart Traffic Lights System (STLS)** for peer-reviewed publication.
-- **Interests:** Distributed Systems, System Reliability, Automation (CI/CD), and Performance Optimization.
-- **Education:**
-  - MSc in Informatics and Computer Engineering at University of West Attica (UNIWA).
-  - Certificate of English Language Proficiency
+---
+
+## 🔬 Research & Publications
+
+- **Smart Traffic Lights System (STLS):** Design and Implementation of Smart Traffic Lights System using Microservices and Container-based Virtualization _(Publication in Progress)_
+- **Knowledge Management Systems (KMS):** Current Trends and Challenges in Knowledge Management Systems: A Systematic Comparative Analysis _(Publication in Progress)_
+
+---
+
+### 🎓 Education
+
+- **MSc in Informatics and Computer Engineering**  
+  _University of West Attica (UNIWA)_
+
+- **English Language Proficiency**  
+  _Michigan State University_
+
+---
+
+### 🛠️ Technical Focus
+
+- **Architecture:** Microservices, Event-Driven Systems, REST APIs
+- **Cloud & DevOps:** Docker, Kubernetes, CI/CD, Container Orchestration
+- **Systems:** Concurrency, Networking, IPC (Sockets), Performance Optimization
+- **Domains:** Smart Cities, IoT Systems, Distributed Infrastructure
 
 ---
 
@@ -28,228 +48,104 @@ I specialize in architecting scalable backend systems and cloud-native applicati
 
 ---
 
-## 🚀 Top Featured Projects
+## 🚀 Top Featured Academic Projects
 
 ### 🚥 [Diploma Thesis](https://polynoe.lib.uniwa.gr/xmlui/handle/11400/11153): Design and Implementation of Smart Traffic Lights System using Microservices and Container-based Virtualization
 
-**Flow: IoT & Cloud Architecture**
+**Flow: Networking, Distributed Systems, Cloud & IoT**
 
 - Architected a cloud-native, event-driven system using **.NET 9.0 microservices** and **RabbitMQ** for intelligent traffic management.
 - Orchestrated the stack with **Docker** and **Kubernetes**, utilizing a hybrid data approach with **MSSQL**, **PostgreSQL**, **MongoDB**, and **Redis**.
 - 🔗 **Repository:** [Ath21/Smart-Traffic-Lights-System](https://github.com/Ath21/Smart-Traffic-Lights-System)
 
-### 📊 [Big Data Management](https://github.com/Big-Data-Management-aka-Uniwa): Analysis of Unemployment and Police Killings in United States
+---
 
-**Flow: Data Science & AI**
+### 📝 [Knowledge Management Systems](https://github.com/Knowledge-Management-aka-Uniwa): Current Trends and Challenges in Knowledge Management Systems: A Systematic Comparative Analysis
 
-- Conducted a socio-economic study using **K-Means Clustering** to identify correlations between unemployment, poverty, and fatal incidents.
-- Processed and visualized complex datasets using **Python (Pandas, Scikit-learn, Matplotlib)** to extract spatial patterns.
-- 🔗 **Repository:** [Big-Data-Management-aka-Uniwa/US-Police-Killing-Search](https://github.com/Big-Data-Management-aka-Uniwa/US-Police-Killing-Search)
+**Flow: Research & Systematic Analysis**
 
-### 🤖 [E-Learning](https://github.com/E-Learning-aka-Uniwa): Artificial Intelligence at Education - Ollama
+- Conducted a **Systematic Comparative Analysis** of modern Knowledge Management Systems (KMS), identifying critical gaps in current distributed architectures.
+- Evaluated the integration of **AI-driven retrieval** and **Cloud-native infrastructures** within organizational knowledge flows.
+- Currently transforming this research into a formal academic publication to contribute to the field of Information Systems.
+- 🔗 **Repository:** [Knowledge-Management/KMS](https://github.com/Knowledge-Management-aka-Uniwa/KMS.git)
 
-**Flow: Data Science & AI / E-Learning**
-
-- Integrated **Ollama** to deploy and manage local Large Language Models (LLMs) for educational research and automated reporting.
-- Focused on the intersection of AI and Education, implementing privacy-preserving, on-premise AI deployments.
-- 🔗 **Repository:** [E-Learning-aka-Uniwa/Ollama](https://github.com/E-Learning-aka-Uniwa/Ollama.git)
-
-### 🖥️ [Software Engineering](https://github.com/Preze-Cinemas-Desktop): Preze Cinemas Desktop - Phase 4 Source Code
-
-**Flow: Software Engineering & Development**
-
-- Developed a comprehensive desktop ERP for cinema management using **Java Swing** and **AWT**, focusing on custom event handling and complex UI layouts.
-- Implemented the full **Software Engineering lifecycle**: from Phase 1 (Use Case Analysis) and Phase 3 (Robustness Diagrams) to a fully functional Phase 4 Source Code.
-- 🔗 **Repository:** [Preze-Cinemas-Desktop/Code](https://github.com/Preze-Cinemas-Desktop/Code)
+---
 
 ### 🎬 [Special Topics in Software Engineering](https://github.com/Preze-Cinemas-Web): Preze Cinemas Web Back-end
 
-**Flow: Software Engineering & Development**
+**Flow: Software Engineering, Design & HCI**
 
 - Engineered a high-concurrency **RESTful API** using **.NET 6** for movie reservations, user management, and secure payments.
 - Implemented Monolithic Architecture principles to ensure system reliability and scalability during peak booking loads.
 - 🔗 **Repository:** [Preze-Cinemas-Web/Back-end](https://github.com/Preze-Cinemas-Web/Back-end)
 
-### ⚡ [Parallel Systems](https://github.com/Parallel-Systems-aka-Uniwa): Covariance Register
-
-**Flow: Hardware & Parallel Computing**
-
-- Accelerated statistical matrix calculations by leveraging **GPGPU programming** with the **NVIDIA CUDA** framework.
-- Optimized memory throughput and thread synchronization for high-performance mathematical processing.
-- 🔗 **Repository:** [Parallel-Systems-aka-Uniwa/Covariance-Register](https://github.com/Parallel-Systems-aka-Uniwa/Covariance-Register)
+---
 
 ### ☁️ [Cloud Computing & Services](https://github.com/Cloud-Computing-and-Services): Virtual Lab - Dockerized Cloud Services
 
-**Flow: Systems & Networking**
+**Flow: Networking, Distributed Systems, Cloud & IoT**
 
 - Built a containerized sandbox using **Docker Compose** to deploy and stress-test distributed services like WordPress and MySQL.
 - Configured isolated virtual networks and persistent storage volumes to simulate production-grade cloud environments.
 - 🔗 **Repository:** [Cloud-Computing-and-Services/Virtual-Lab](https://github.com/Cloud-Computing-and-Services/Virtual-Lab)
 
-### 📈 [Digital Signal Processing](https://github.com/Digital-Signal-Processing-aka-Uniwa): MATLAB
+---
 
-**Flow: Signals & Mathematics**
+### 🎭 [Distributed Systems](https://github.com/Distributed-Systems-aka-Uniwa): Theater Reservation System with Java RMI
 
-- Implemented digital filtering and frequency analysis algorithms to process and transform discrete-time signals.
-- Developed mathematical models to validate signal stability and communication protocol efficiency.
-- 🔗 **Repository:** [Digital-Signal-Processing-aka-Uniwa/Matlab](https://github.com/Digital-Signal-Processing-aka-Uniwa/Matlab)
+**Flow: Networking, Distributed Systems, Cloud & IoT**
+
+- Implemented a **distributed application** using **Java RMI** for remote communication.
+- Managed **concurrent client requests** and ensured consistency in booking operations.
+- 🔗 Repository: [Distributed-Systems/RMI](https://github.com/Distributed-Systems-aka-Uniwa/RMI.git)
+
+---
+
+### 🔐 [Information Technology Security](https://github.com/Information-Technology-Security): Buffer Overflow
+
+**Flow: Cyber Security**
+
+- Analyzed and exploited **stack-based buffer overflow vulnerabilities** in C programs.
+- Studied memory layout, stack frames, and execution flow manipulation techniques.
+- Developed understanding of **low-level system vulnerabilities and defensive mechanisms**.
+- 🔗 Repository: [Information-Technology-Security/Buffer-Overflow](https://github.com/Information-Technology-Security/Buffer-Overflow.git)
+
+---
+
+### ⚡ [Parallel Systems](https://github.com/Parallel-Systems-aka-Uniwa): Covariance Register
+
+**Flow: Parallel & High-Performance Computing**
+
+- Accelerated statistical matrix calculations by leveraging **GPGPU programming** with the **NVIDIA CUDA** framework.
+- Optimized memory throughput and thread synchronization for high-performance mathematical processing.
+- 🔗 **Repository:** [Parallel-Systems-aka-Uniwa/Covariance-Register](https://github.com/Parallel-Systems-aka-Uniwa/Covariance-Register)
 
 ---
 
 ## 🎓 Academic Roadmap (UNIWA)
 
 <details>
-<summary>📂 <b>Systems, Networking & Security</b></summary>
+<summary>📂 <b>01. Mathematics, Algorithms & Signal Processing</b></summary>
 
-#### Operating Systems & Low-Level Programming
-
-- [Operating Systems I](https://github.com/Operating-Systems-1)
-  - Basic Linux Commands
-  - Bash Scripts
-- [Operating Systems II](https://github.com/Operating-Systems-2-aka-Uniwa)
-  - Process Management with Fork and Wait in C
-  - Parallel Inner Product Calculation using C POSIX Threads
-  - POSIX Threads Synchronization - Semaphores, Condition Variables
-  - UNIX-Domain Stream Sockets Communication for Fibonacci Sequence Validation
-- [Compilers](https://github.com/Compilers-aka-Uniwa)
-  - Design and Implementation of a Compiler at Uni-C
-
-#### Networking & Distributed Systems
-
-- [Computer Networks II](https://github.com/Computer-Networks-2)
-  - OSPF Routing
-  - TCP
-- [Network Programming](https://github.com/Network-Programming-aka-Uniwa)
-  - Sockets
-- [Distributed Systems](https://github.com/Distributed-Systems-aka-Uniwa)
-  - Mathematical Equations using Remote Procedure Call (RPC)
-  - Theater Reservation System with Java RMI
-- [Cloud Computing and Services](https://github.com/Cloud-Computing-and-Services)
-  - Use Cases at CloudSim
-  - Virtual Lab - Dockerized Cloud Services
-- [Internet of Things](https://github.com/Internet-of-Things-aka-Uniwa)
-  - Traffic Light Sequence with Arduino UNO, ESP-01 and ThingSpeak
-
-#### Cyber Security
-
-- [Information Technology Security](https://github.com/Information-Technology-Security)
-  - Buffer Overflow
-  - Cryptography
-  - SQL Injection
-  - Android Repackaging
-  - TLS Scanning
-- [Programming of Mobile Devices](https://github.com/Programming-of-Mobile-Devices)
-  - Password Manager on Java Android
+- [Algorithms and Complexity](https://github.com/Gandalf-Saga)
+  - Design and Analysis of Algorithms
+  - Algorithms and Complexity
+- [Signals and Systems](https://github.com/Signals-and-Systems-aka-Uniwa)
+  - Learning of Matlab
+  - Analog Signals
+  - Constant Time Systems
+  - Final Project
+- [Digital Signal Processing](https://github.com/Digital-Signal-Processing-aka-Uniwa)
+  - Digital Signal Processing at Matlab
+- [Digital Communications](https://github.com/Digital-Communications-aka-Uniwa)
+  - Digital Communications at Matlab
+- [Physics](https://github.com/Physics-aka-Uniwa)
+  - Errors
 
 </details>
 
 <details>
-<summary>📂 <b>Software Engineering & Development</b></summary>
-
-#### Programming Fundamentals
-
-- [Computer Programming](https://github.com/Computer-Programming-aka-Uniwa)
-  - Introduction to C Programming
-  - C Programming Fundamentals
-  - Control Structures
-  - Loops
-  - Subprograms
-  - Arrays, Pointers, Files
-  - Minesweeper
-- [Object-Oriented Programming](https://github.com/Object-Oriented-Programming-aka-Uniwa)
-  - From C to C++
-  - Introduction to C++ Classes
-  - Inheritance
-  - Babis Poteridis and the Magic Notebook Searching
-  - Media Player
-- [Data Structures](https://github.com/Data-Structures-aka-Uniwa)
-  - Arrays
-  - Stacks
-  - List
-- [Software Development Methodologies](https://github.com/Software-Development-Methodologies)
-  - Classes and Inheritance
-  - Java I/O
-  - Java GUI
-  - Event Handling
-
-#### Software Engineering & Design
-
-- [Software Engineering](https://github.com/Preze-Cinemas-Desktop)
-  - Preze Cinemas Desktop - Phase 1
-    Use Case Analysis
-  - Preze Cinemas Desktop - Phase 2
-    Software Requirements Specification
-  - Preze Cinemas Desktop - Phase 3
-    Robustness Diagram Design
-  - Preze Cinemas Desktop - Phase 4
-    Source Code
-  - Preze Cinemas Desktop - Phase 5
-    User Acceptance Testing
-- [Special Topics in Software Engineering](https://github.com/Preze-Cinemas-Web)
-  - Preze Cinemas Web
-    Back-end
-  - Preze Cinemas Web
-    Front-end
-- [Software Quality and Reliability](https://github.com/Software-Quality-and-Reliability)
-  - Software Life Cycle Models and Methodologies
-  - Software Development in C# and Reliability using Unit Tests
-- [Analysis of Information Systems](https://github.com/Analysis-of-Information-Systems)
-  - Cash Withdrawal Analysis and Design
-  - Real Estate Marketing Analysis and Design
-- [Design and Development of Information Systems](https://github.com/Development-of-Information-Systems)
-  - Development of a Unified Information System to Support Operational Operations of Health Units: Cash Management Subsystem
-- [Technical Writing](https://github.com/Technical-Writing-aka-Uniwa)
-  - Technical Documentation Standards
-  - Course Template
-  - Equations at MS Word and Drawings at MS Visio
-- [Knowledge Management](https://github.com/Knowledge-Management-aka-Uniwa)
-  - Knowledge Management Systems
-
-#### Game Development
-
-- [Human-Computer Interaction](https://github.com/Human-Computer-Interaction)
-  - Virtual Gym
-- [Computer Graphics](https://github.com/Computer-Graphics-aka-Uniwa)
-  - Building a 3D Graphics Scene Using WebGL
-  - WebGL Tutorial
-
-</details>
-
-<details>
-<summary>📂 <b>Data Science & AI</b></summary>
-
-#### Intelligence & Retrieval
-
-- [Artificial Intelligence](https://github.com/Artificial-Intelligence-aka-Uniwa)
-  - Real Genetic Algorithm Application
-  - Application of Search Algorithms to the Pacman Problem
-- [Information Retrieval](https://github.com/Information-Retrieval-aka-Uniwa)
-  - Building a Search Engine for Academic Papers
-- [E-Learning](https://github.com/E-Learning-aka-Uniwa)
-  - Artificial Intelligence at Education - Report
-  - Artificial Intelligence at Education - Ollama
-
-#### Data Management
-
-- [Databases I](https://github.com/Data-Bases-1)
-  - Create and Manage a Database
-  - Subqueries in SQL Language
-  - Classification and Suggestions - GROUP BY, AND, HAVING, JOIN
-- [Databases II](https://github.com/Data-Bases-2)
-  - Creation of Database personnel
-  - Constraints
-  - Views
-  - Trigger
-  - Variables, Functions, Procedures
-- [Big Data Management](https://github.com/Big-Data-Management-aka-Uniwa)
-  - Analysis of Unemployment and Police Killings in United States
-
-</details>
-
-<details>
-<summary>📂 <b>Hardware & Parallel Computing</b></summary>
-
-#### Circuits & Electronics
+<summary>📂 <b>02. Hardware, Circuits & Electronics</b></summary>
 
 - [Circuit Theory](https://github.com/Circuit-Theory)
   - Kirchhoff's Laws - Ohm Law - Potentiometer - Rheostat
@@ -275,7 +171,76 @@ I specialize in architecting scalable backend systems and cloud-native applicati
   - Register Files
   - Simple Circle of a MIPS Processor
 
-#### Parallel Computing
+</details>
+
+<details>
+<summary>📂 <b>03. Programming Fundamentals & Software Development</b></summary>
+
+- [Computer Programming](https://github.com/Computer-Programming-aka-Uniwa)
+  - Introduction to C Programming
+  - C Programming Fundamentals
+  - Control Structures
+  - Loops
+  - Subprograms
+  - Arrays, Pointers, Files
+  - Minesweeper
+- [Object-Oriented Programming](https://github.com/Object-Oriented-Programming-aka-Uniwa)
+  - From C to C++
+  - Introduction to C++ Classes
+  - Inheritance
+  - Babis Poteridis and the Magic Notebook Searching
+  - Media Player
+- [Data Structures](https://github.com/Data-Structures-aka-Uniwa)
+  - Arrays
+  - Stacks
+  - List
+- [Software Development Methodologies](https://github.com/Software-Development-Methodologies)
+  - Classes and Inheritance
+  - Java I/O
+  - Java GUI
+  - Event Handling
+
+</details>
+
+<details>
+<summary>📂 <b>04. Systems, Operating Systems & Low-Level</b></summary>
+
+- [Operating Systems I](https://github.com/Operating-Systems-1)
+  - Basic Linux Commands
+  - Bash Scripts
+- [Operating Systems II](https://github.com/Operating-Systems-2-aka-Uniwa)
+  - Process Management with Fork and Wait in C
+  - Parallel Inner Product Calculation using C POSIX Threads
+  - POSIX Threads Synchronization - Semaphores, Condition Variables
+  - UNIX-Domain Stream Sockets Communication for Fibonacci Sequence Validation
+- [Compilers](https://github.com/Compilers-aka-Uniwa)
+  - Design and Implementation of a Compiler at Uni-C
+
+</details>
+
+<details>
+<summary>📂 <b>05. Networking, Distributed Systems, Cloud & IoT</b></summary>
+
+- [Diploma Thesis](https://polynoe.lib.uniwa.gr/xmlui/handle/11400/11153)
+  - Design and Implementation of Smart Traffic Lights System using Microservices and Container-based Virtualization
+- [Computer Networks II](https://github.com/Computer-Networks-2)
+  - OSPF Routing
+  - TCP
+- [Network Programming](https://github.com/Network-Programming-aka-Uniwa)
+  - Sockets
+- [Distributed Systems](https://github.com/Distributed-Systems-aka-Uniwa)
+  - Mathematical Equations using Remote Procedure Call (RPC)
+  - Theater Reservation System with Java RMI
+- [Cloud Computing and Services](https://github.com/Cloud-Computing-and-Services)
+  - Use Cases at CloudSim
+  - Virtual Lab - Dockerized Cloud Services
+- [Internet of Things](https://github.com/Internet-of-Things-aka-Uniwa)
+  - Traffic Light Sequence with Arduino UNO, ESP-01 and ThingSpeak
+
+</details>
+
+<details>
+<summary>📂 <b>06. Parallel & High-Performance Computing</b></summary>
 
 - [Introduction to Parallel Computing](https://github.com/Introduction-to-Parallel-Computing)
   - Message Passing Interface (MPI)
@@ -289,31 +254,69 @@ I specialize in architecting scalable backend systems and cloud-native applicati
 </details>
 
 <details>
-<summary>📂 <b>Signals & Mathematics</b></summary>
+<summary>📂 <b>07. Software Engineering, Design & HCI</b></summary>
 
-#### Algorithms
-
-- [Algorithms and Complexity](https://github.com/Gandalf-Saga)
-  - Design and Analysis of Algorithms
-  - Algorithms and Complexity
-
-#### Signals
-
-- [Signals and Systems](https://github.com/Signals-and-Systems-aka-Uniwa)
-  - Learning of Matlab
-  - Analog Signals
-  - Constant Time Systems
-  - Final Project
-- [Digital Signal Processing](https://github.com/Digital-Signal-Processing-aka-Uniwa)
-  - Digital Signal Processing at Matlab
-- [Digital Communications](https://github.com/Digital-Communications-aka-Uniwa)
-  - Digital Communications at Matlab
-- [Physics](https://github.com/Physics-aka-Uniwa)
-  - Errors
+- [Software Engineering](https://github.com/Preze-Cinemas-Desktop)
+  - Preze Cinemas Desktop (Full Lifecycle Phases 1-5)
+- [Special Topics in Software Engineering](https://github.com/Preze-Cinemas-Web)
+  - Preze Cinemas Web (Front-end & Back-end)
+- [Software Quality and Reliability](https://github.com/Software-Quality-and-Reliability)
+  - Software Life Cycle Models and Methodologies
+  - Software Development in C# and Reliability using Unit Tests
+- [Analysis of Information Systems](https://github.com/Analysis-of-Information-Systems)
+  - Cash Withdrawal and Real Estate Marketing Analysis
+- [Design and Development of Information Systems](https://github.com/Development-of-Information-Systems)
+  - Unified Information System for Health Units (Cash Management)
+- [Human-Computer Interaction](https://github.com/Human-Computer-Interaction)
+  - Virtual Gym
+- [Computer Graphics](https://github.com/Computer-Graphics-aka-Uniwa)
+  - 3D Graphics Scene Using WebGL
 
 </details>
 
----
+<details>
+<summary>📂 <b>08. Databases & Data Science</b></summary>
+
+- [Databases I](https://github.com/Data-Bases-1)
+  - SQL Management, Subqueries, and Joins
+- [Databases II](https://github.com/Data-Bases-2)
+  - Constraints, Views, Triggers, and Procedures
+- [Big Data Management](https://github.com/Big-Data-Management-aka-Uniwa)
+  - Analysis of Unemployment and Police Killings in US
+
+</details>
+
+<details>
+<summary>📂 <b>09. Artificial Intelligence & E-Learning</b></summary>
+
+- [Artificial Intelligence](https://github.com/Artificial-Intelligence-aka-Uniwa)
+  - Genetic Algorithms and Search Algorithms (Pacman)
+- [Information Retrieval](https://github.com/Information-Retrieval-aka-Uniwa)
+  - Search Engine for Academic Papers
+- [E-Learning](https://github.com/E-Learning-aka-Uniwa)
+  - AI in Education & Ollama Reports
+
+</details>
+
+<details>
+<summary>📂 <b>10. Cyber Security</b></summary>
+
+- [Information Technology Security](https://github.com/Information-Technology-Security)
+  - Buffer Overflow, Cryptography, SQL Injection, TLS Scanning
+- [Programming of Mobile Devices](https://github.com/Programming-of-Mobile-Devices)
+  - Password Manager on Java Android
+
+</details>
+
+<details>
+<summary>📂 <b>11. Research & Systematic Analysis</b></summary>
+
+- [Technical Writing](https://github.com/Technical-Writing-aka-Uniwa)
+  - Documentation Standards & MS Visio Drawings
+- [Knowledge Management](https://github.com/Knowledge-Management-aka-Uniwa)
+  - Knowledge Management Systems
+
+</details>
 
 ## 📊 GitHub Stats
 
