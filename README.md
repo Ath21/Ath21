@@ -62,7 +62,7 @@ I specialize in building scalable backend services using **.NET** and designing 
 
 ---
 
-### 📝 [Knowledge Management Systems](https://github.com/Knowledge-Management-aka-Uniwa): Current Trends and Challenges in Knowledge Management Systems: A Systematic Comparative Analysis
+### 📝 [Knowledge Management](https://github.com/Knowledge-Management-aka-Uniwa): Current Trends and Challenges in Knowledge Management Systems: A Systematic Comparative Analysis
 
 **Flow: Research & Systematic Analysis**
 
