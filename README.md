@@ -15,6 +15,7 @@ I specialize in building scalable backend services using **.NET** and designing 
 ## 🔬 Research & Publications
 
 - **Smart Traffic Lights System (STLS):** Design and Implementation of Smart Traffic Lights System using Microservices and Container-based Virtualization _(Publication in Progress)_
+  - **Thesis available**: https://polynoe.lib.uniwa.gr/xmlui/handle/11400/11153
 - **Knowledge Management Systems (KMS):** Current Trends and Challenges in Knowledge Management Systems: A Systematic Comparative Analysis _(Publication in Progress)_
 
 ---
