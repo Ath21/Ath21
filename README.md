@@ -54,7 +54,7 @@ I specialize in building scalable backend services using **.NET** and designing 
 
 ---
 
-## 🚀 Top Featured Academic Projects
+## 🚀 Top Featured Projects
 
 ### 🚥 [Diploma Thesis](https://polynoe.lib.uniwa.gr/xmlui/handle/11400/11153): Design and Implementation of Smart Traffic Lights System using Microservices and Container-based Virtualization
 
