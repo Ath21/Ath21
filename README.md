@@ -259,14 +259,20 @@ I specialize in building scalable backend services using **.NET** and designing 
 <summary>📂 <b>07. Software Engineering, Design & HCI</b></summary>
 
 - [Software Engineering](https://github.com/Preze-Cinemas-Desktop)
-  - Preze Cinemas Desktop (Full Lifecycle Phases 1-5)
+  - Preze Cinemas Desktop - Phase 1 Use Case Analysis
+  - Preze Cinemas Desktop - Phase 2 Software Requirements Specification
+  - Preze Cinemas Desktop - Phase 3 Robustness Diagram Design
+  - Preze Cinemas Desktop - Phase 4 Source Code
+  - Preze Cinemas Desktop - Phase 5 User Acceptance Testing
 - [Special Topics in Software Engineering](https://github.com/Preze-Cinemas-Web)
-  - Preze Cinemas Web (Front-end & Back-end)
+  - Preze Cinemas Web Back-end
+  - Preze Cinemas Web Front-end
 - [Software Quality and Reliability](https://github.com/Software-Quality-and-Reliability)
   - Software Life Cycle Models and Methodologies
   - Software Development in C# and Reliability using Unit Tests
 - [Analysis of Information Systems](https://github.com/Analysis-of-Information-Systems)
-  - Cash Withdrawal and Real Estate Marketing Analysis
+  - Cash Withdrawal Analysis and Design
+  - Real Estate Marketing Analysis and Design
 - [Design and Development of Information Systems](https://github.com/Development-of-Information-Systems)
   - Unified Information System for Health Units (Cash Management)
 - [Human-Computer Interaction](https://github.com/Human-Computer-Interaction)
@@ -280,9 +286,15 @@ I specialize in building scalable backend services using **.NET** and designing 
 <summary>📂 <b>08. Databases & Data Science</b></summary>
 
 - [Databases I](https://github.com/Data-Bases-1)
-  - SQL Management, Subqueries, and Joins
+  - Create and Manage a Database
+  - Subqueries in SQL Language
+  - Classification and Suggestions - GROUP BY, AND, HAVING, JOIN
 - [Databases II](https://github.com/Data-Bases-2)
-  - Constraints, Views, Triggers, and Procedures
+  - Creation of Database personnel
+  - Constraints
+  - Views
+  - Trigger
+  - Variables, Functions, Procedures
 - [Big Data Management](https://github.com/Big-Data-Management-aka-Uniwa)
   - Analysis of Unemployment and Police Killings in US
 
@@ -292,11 +304,13 @@ I specialize in building scalable backend services using **.NET** and designing 
 <summary>📂 <b>09. Artificial Intelligence & E-Learning</b></summary>
 
 - [Artificial Intelligence](https://github.com/Artificial-Intelligence-aka-Uniwa)
-  - Genetic Algorithms and Search Algorithms (Pacman)
+  - Real Genetic Algorithm Application
+  - Application of Search Algorithms to the Pacman Problem
 - [Information Retrieval](https://github.com/Information-Retrieval-aka-Uniwa)
   - Search Engine for Academic Papers
 - [E-Learning](https://github.com/E-Learning-aka-Uniwa)
-  - AI in Education & Ollama Reports
+  - Artificial Intelligence at Education - Report
+  - Artificial Intelligence at Education - Ollama
 
 </details>
 
@@ -304,7 +318,11 @@ I specialize in building scalable backend services using **.NET** and designing 
 <summary>📂 <b>10. Cyber Security</b></summary>
 
 - [Information Technology Security](https://github.com/Information-Technology-Security)
-  - Buffer Overflow, Cryptography, SQL Injection, TLS Scanning
+  - Buffer Overflow
+  - Cryptography
+  - SQL Injection
+  - Android Repackaging
+  - TLS Scanning
 - [Programming of Mobile Devices](https://github.com/Programming-of-Mobile-Devices)
   - Password Manager on Java Android
 
@@ -314,9 +332,11 @@ I specialize in building scalable backend services using **.NET** and designing 
 <summary>📂 <b>11. Research & Systematic Analysis</b></summary>
 
 - [Technical Writing](https://github.com/Technical-Writing-aka-Uniwa)
-  - Documentation Standards & MS Visio Drawings
+  - Technical Documentation Standards
+  - Course Template
+  - Equations at MS Word and Drawings at MS Visio
 - [Knowledge Management](https://github.com/Knowledge-Management-aka-Uniwa)
-  - Knowledge Management Systems
+  - Current Trends and Challenges in Knowledge Management Systems: A Systematic Comparative Analysis
 
 </details>
 
