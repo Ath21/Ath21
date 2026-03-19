@@ -82,21 +82,23 @@ I specialize in building scalable backend services using **.NET** and designing 
 - Developed a comprehensive desktop ERP using **Java Swing/AWT**, managing the complete **Software Development Life Cycle (SDLC)**.
 - **Phase 1-3:** Conducted Use Case Analysis, SRS documentation, and Robustness Diagram design.
 - **Phase 4-5:** Implemented the full Source Code and executed User Acceptance Testing (UAT) to ensure functional reliability.
-- 🔗 **Phase 1 - Repository:** [Preze-Cinemas-Desktop/Use-Cases](https://github.com/Preze-Cinemas-Desktop/Use-Cases)
-- 🔗 **Phase 2 - Repository:** [Preze-Cinemas-Desktop/Requirements](https://github.com/Preze-Cinemas-Desktop/Requirements)
-- 🔗 **Phase 3 - Repository:** [Preze-Cinemas-Desktop/Robustness](https://github.com/Preze-Cinemas-Desktop/Robustness)
-- 🔗 **Phase 4 - Repository:** [Preze-Cinemas-Desktop/Code](https://github.com/Preze-Cinemas-Desktop/Code)
-- 🔗 **Phase 5 - Repository:** [Preze-Cinemas-Desktop/User-Acceptance-Testing](https://github.com/Preze-Cinemas-Desktop/User-Acceptance-Testing)
+- 🔗 **1. Use Cases Repository:** [Preze-Cinemas-Desktop/Use-Cases](https://github.com/Preze-Cinemas-Desktop/Use-Cases)
+- 🔗 **2. SRS Repository:** [Preze-Cinemas-Desktop/Requirements](https://github.com/Preze-Cinemas-Desktop/Requirements)
+- 🔗 **3. Robustness Repository:** [Preze-Cinemas-Desktop/Robustness](https://github.com/Preze-Cinemas-Desktop/Robustness)
+- 🔗 **4. Source Code Repository:** [Preze-Cinemas-Desktop/Code](https://github.com/Preze-Cinemas-Desktop/Code)
+- 🔗 **5. UAT Repository:** [Preze-Cinemas-Desktop/User-Acceptance-Testing](https://github.com/Preze-Cinemas-Desktop/User-Acceptance-Testing)
 
 ---
 
-### 🎬 [Special Topics in Software Engineering](https://github.com/Preze-Cinemas-Web): Preze Cinemas Web Back-end
+### 🎬 [Special Topics in Software Engineering](https://github.com/Preze-Cinemas-Web): Preze Cinemas Web (Full-Stack Collaboration)
 
 **Flow: Software Engineering, Design & HCI**
 
 - Engineered a high-concurrency **RESTful API** using **.NET 6** for movie reservations, user management, and secure payments.
-- Implemented Monolithic Architecture principles to ensure system reliability and scalability during peak booking loads.
-- 🔗 **Repository:** [Preze-Cinemas-Web/Back-end](https://github.com/Preze-Cinemas-Web/Back-end)
+- **Team Collaboration:** Acted as the Backend lead, coordinating with a dedicated Frontend team to integrate a **React.js** interface with complex business logic.
+- Implemented Monolithic Architecture principles to ensure system reliability and seamless API-to-UI data flow during peak booking loads.
+- 🔗 **Backend Repository:** [Preze-Cinemas-Web/Back-end](https://github.com/Preze-Cinemas-Web/Back-end)
+- 🔗 **Frontend Repository:** [Preze-Cinemas-Web/Front-end](https://github.com/Preze-Cinemas-Web/Front-end)
 
 ---
 
