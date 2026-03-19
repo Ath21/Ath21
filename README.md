@@ -6,7 +6,9 @@
 
 # 👨‍💻 About Me
 
-I am a software engineer specializing in **distributed systems, cloud-native architectures, and smart infrastructure**. My work focuses on bridging the gap between industry-standard engineering and academic research, specifically in scaling intelligent urban systems.
+**MSc graduate in Informatics and Computer Engineering** with a strong focus on backend development, cloud-native systems, and DevOps practices.
+
+I specialize in building scalable backend services using **.NET** and designing **microservices architectures** deployed with **Docker** and **Kubernetes**. My diploma thesis focused on a **cloud-native smart traffic system**, implementing containerized microservices, **CI/CD pipelines**, and **event-driven communication**.
 
 ---
 
