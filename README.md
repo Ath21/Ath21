@@ -73,6 +73,21 @@ I specialize in building scalable backend services using **.NET** and designing 
 
 ---
 
+### 🖥️ [Software Engineering](https://github.com/Preze-Cinemas-Desktop): Preze Cinemas Desktop (Full SDLC)
+
+**Flow: Software Engineering, Design & HCI**
+
+- Developed a comprehensive desktop ERP using **Java Swing/AWT**, managing the complete **Software Development Life Cycle (SDLC)**.
+- **Phase 1-3:** Conducted Use Case Analysis, SRS documentation, and Robustness Diagram design.
+- **Phase 4-5:** Implemented the full Source Code and executed User Acceptance Testing (UAT) to ensure functional reliability.
+- 🔗 **Phase 1 - Repository:** [Preze-Cinemas-Desktop/Use-Cases](https://github.com/Preze-Cinemas-Desktop/Use-Cases)
+- 🔗 **Phase 2 - Repository:** [Preze-Cinemas-Desktop/Requirements](https://github.com/Preze-Cinemas-Desktop/Requirements)
+- 🔗 **Phase 3 - Repository:** [Preze-Cinemas-Desktop/Robustness](https://github.com/Preze-Cinemas-Desktop/Robustness)
+- 🔗 **Phase 4 - Repository:** [Preze-Cinemas-Desktop/Code](https://github.com/Preze-Cinemas-Desktop/Code)
+- 🔗 **Phase 5 - Repository:** [Preze-Cinemas-Desktop/User-Acceptance-Testing](https://github.com/Preze-Cinemas-Desktop/User-Acceptance-Testing)
+
+---
+
 ### 🎬 [Special Topics in Software Engineering](https://github.com/Preze-Cinemas-Web): Preze Cinemas Web Back-end
 
 **Flow: Software Engineering, Design & HCI**
