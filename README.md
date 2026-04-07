@@ -364,7 +364,7 @@ I specialize in building scalable backend services using **.NET** and designing 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ath21&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ath21&layout=compact&theme=dark" />
 </p>
 
 ---
