@@ -6,7 +6,7 @@
 
 # 👨‍💻 About Me
 
-**MSc graduate in Informatics and Computer Engineering** with a strong focus on backend development, cloud-native systems, and DevOps practices.
+**MEng graduate in Informatics and Computer Engineering** at University of West Attica with a strong focus on backend development, cloud-native systems, and DevOps practices.
 
 I specialize in building scalable backend services using **.NET** and designing **microservices architectures** deployed with **Docker** and **Kubernetes**. My diploma thesis focused on a **cloud-native smart traffic system**, implementing containerized microservices, **CI/CD pipelines**, and **event-driven communication**.
 
