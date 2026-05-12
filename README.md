@@ -25,7 +25,7 @@ I specialize in building scalable backend services using **.NET** and designing 
 
 ### 🎓 Education
 
-- **MSc in Informatics and Computer Engineering**  
+- **MEng in Informatics and Computer Engineering**  
   _University of West Attica (UNIWA)_
 
 - **English Language Proficiency**  
